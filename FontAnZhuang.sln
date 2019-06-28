@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontAnZhuang", "FontAnZhuang.csproj", "{0A60197F-E43E-4A76-ACF7-520EA2EED019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformOpaqueLayer", "..\WinformOpaqueLayer\WinformOpaqueLayer.csproj", "{B4C69830-7BE7-4C3C-A353-CA04E8696195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A60197F-E43E-4A76-ACF7-520EA2EED019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A60197F-E43E-4A76-ACF7-520EA2EED019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A60197F-E43E-4A76-ACF7-520EA2EED019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A60197F-E43E-4A76-ACF7-520EA2EED019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C69830-7BE7-4C3C-A353-CA04E8696195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C69830-7BE7-4C3C-A353-CA04E8696195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C69830-7BE7-4C3C-A353-CA04E8696195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C69830-7BE7-4C3C-A353-CA04E8696195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F28572E5-7CC5-4394-B00E-A176FA690B6F}
+	EndGlobalSection
+EndGlobal
